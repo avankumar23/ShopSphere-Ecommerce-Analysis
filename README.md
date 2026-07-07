@@ -10,7 +10,7 @@
 
 **ShopSphere** is a US-based e-commerce company selling popular consumer electronics and accessories. Founded in 2018, ShopSphere has grown steadily but now faces increasing competition from peer companies, along with new challenges and opportunities in a shifting market.
 
-Between 2021–2022, ShopSphere's book of business grew to nearly **3,998 customers** and **5,885 transactions**, generating **over $1 billion** in transaction revenue. This project dives into that data to answer key questions from the Marketing and Finance teams, evaluating ShopSphere's performance across two years and translating raw numbers into insights that cross-functional teams can act on.
+Between 2021–2022, ShopSphere's book of business grew to nearly **3,999 customers** and **5,885 transactions**, generating **over $1 billion** in transaction revenue. This project dives into that data to answer key questions from the Marketing and Finance teams, evaluating ShopSphere's performance across two years and translating raw numbers into insights that cross-functional teams can act on.
 
 The analysis focuses on three pillars:
 
